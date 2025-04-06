@@ -1,0 +1,1762 @@
+{
+  "orangeCap": {
+    "2021": [
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "16",
+        "runs": "635"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "633"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "13",
+        "innings": "13",
+        "runs": "626"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "16",
+        "innings": "16",
+        "runs": "587"
+      },
+      {
+        "player": "GJ Maxwell",
+        "matches": "15",
+        "innings": "14",
+        "runs": "513"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "14",
+        "innings": "14",
+        "runs": "484"
+      },
+      {
+        "player": "PP Shaw",
+        "matches": "15",
+        "innings": "15",
+        "runs": "479"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "478"
+      },
+      {
+        "player": "MA Agarwal",
+        "matches": "12",
+        "innings": "12",
+        "runs": "441"
+      },
+      {
+        "player": "RR Pant",
+        "matches": "16",
+        "innings": "16",
+        "runs": "419"
+      }
+    ],
+    "2022": [
+      {
+        "player": "JC Buttler",
+        "matches": "17",
+        "innings": "17",
+        "runs": "863"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "15",
+        "innings": "15",
+        "runs": "616"
+      },
+      {
+        "player": "Q de Kock",
+        "matches": "15",
+        "innings": "15",
+        "runs": "508"
+      },
+      {
+        "player": "HH Pandya",
+        "matches": "15",
+        "innings": "15",
+        "runs": "487"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "16",
+        "innings": "16",
+        "runs": "483"
+      },
+      {
+        "player": "DA Miller",
+        "matches": "16",
+        "innings": "16",
+        "runs": "481"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "468"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "14",
+        "innings": "14",
+        "runs": "460"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "17",
+        "innings": "17",
+        "runs": "458"
+      },
+      {
+        "player": "DJ Hooda",
+        "matches": "15",
+        "innings": "14",
+        "runs": "451"
+      }
+    ],
+    "2023": [
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "890"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "14",
+        "innings": "14",
+        "runs": "730"
+      },
+      {
+        "player": "DP Conway",
+        "matches": "16",
+        "innings": "15",
+        "runs": "672"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "14",
+        "innings": "14",
+        "runs": "639"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "625"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "16",
+        "innings": "16",
+        "runs": "605"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "15",
+        "runs": "590"
+      },
+      {
+        "player": "DA Warner",
+        "matches": "14",
+        "innings": "14",
+        "runs": "516"
+      },
+      {
+        "player": "RK Singh",
+        "matches": "14",
+        "innings": "14",
+        "runs": "474"
+      },
+      {
+        "player": "Ishan Kishan",
+        "matches": "16",
+        "innings": "15",
+        "runs": "454"
+      }
+    ],
+    "2024": [
+      {
+        "player": "V Kohli",
+        "matches": "15",
+        "innings": "15",
+        "runs": "741"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "14",
+        "innings": "14",
+        "runs": "583"
+      },
+      {
+        "player": "R Parag",
+        "matches": "16",
+        "innings": "14",
+        "runs": "573"
+      },
+      {
+        "player": "TM Head",
+        "matches": "15",
+        "innings": "15",
+        "runs": "567"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "16",
+        "innings": "15",
+        "runs": "531"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "12",
+        "innings": "12",
+        "runs": "527"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "14",
+        "innings": "14",
+        "runs": "520"
+      },
+      {
+        "player": "N Pooran",
+        "matches": "14",
+        "innings": "14",
+        "runs": "499"
+      },
+      {
+        "player": "SP Narine",
+        "matches": "15",
+        "innings": "14",
+        "runs": "488"
+      },
+      {
+        "player": "Abhishek Sharma",
+        "matches": "16",
+        "innings": "16",
+        "runs": "484"
+      }
+    ],
+    "2025": [
+      {
+        "player": "N Pooran",
+        "matches": "4",
+        "innings": "4",
+        "runs": "201"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "3",
+        "innings": "3",
+        "runs": "186"
+      },
+      {
+        "player": "MR Marsh",
+        "matches": "4",
+        "innings": "4",
+        "runs": "184"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "4",
+        "innings": "4",
+        "runs": "171"
+      },
+      {
+        "player": "JC Buttler",
+        "matches": "3",
+        "innings": "3",
+        "runs": "166"
+      },
+      {
+        "player": "SS Iyer",
+        "matches": "3",
+        "innings": "3",
+        "runs": "159"
+      },
+      {
+        "player": "TM Head",
+        "matches": "4",
+        "innings": "4",
+        "runs": "140"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "4",
+        "innings": "4",
+        "runs": "137"
+      },
+      {
+        "player": "A Raghuvanshi",
+        "matches": "4",
+        "innings": "4",
+        "runs": "128"
+      },
+      {
+        "player": "H Klaasen",
+        "matches": "4",
+        "innings": "4",
+        "runs": "125"
+      }
+    ]
+  },
+  "most4s": {
+    "2021": [
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "16",
+        "runs": "635",
+        "fours": "64"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "16",
+        "innings": "16",
+        "runs": "587",
+        "fours": "63"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "633",
+        "fours": "60"
+      },
+      {
+        "player": "PP Shaw",
+        "matches": "15",
+        "innings": "15",
+        "runs": "479",
+        "fours": "56"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "478",
+        "fours": "50"
+      },
+      {
+        "player": "GJ Maxwell",
+        "matches": "15",
+        "innings": "14",
+        "runs": "513",
+        "fours": "48"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "13",
+        "innings": "13",
+        "runs": "626",
+        "fours": "48"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "14",
+        "innings": "14",
+        "runs": "484",
+        "fours": "45"
+      },
+      {
+        "player": "D Padikkal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "411",
+        "fours": "44"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "15",
+        "innings": "15",
+        "runs": "405",
+        "fours": "43"
+      }
+    ],
+    "2022": [
+      {
+        "player": "JC Buttler",
+        "matches": "17",
+        "innings": "17",
+        "runs": "863",
+        "fours": "83"
+      },
+      {
+        "player": "DA Warner",
+        "matches": "12",
+        "innings": "12",
+        "runs": "432",
+        "fours": "52"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "16",
+        "innings": "16",
+        "runs": "483",
+        "fours": "51"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "468",
+        "fours": "49"
+      },
+      {
+        "player": "HH Pandya",
+        "matches": "15",
+        "innings": "15",
+        "runs": "487",
+        "fours": "49"
+      },
+      {
+        "player": "Abhishek Sharma",
+        "matches": "14",
+        "innings": "14",
+        "runs": "426",
+        "fours": "47"
+      },
+      {
+        "player": "Q de Kock",
+        "matches": "15",
+        "innings": "15",
+        "runs": "508",
+        "fours": "47"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "14",
+        "innings": "14",
+        "runs": "460",
+        "fours": "47"
+      },
+      {
+        "player": "Ishan Kishan",
+        "matches": "14",
+        "innings": "14",
+        "runs": "418",
+        "fours": "45"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "15",
+        "innings": "15",
+        "runs": "616",
+        "fours": "45"
+      }
+    ],
+    "2023": [
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "890",
+        "fours": "85"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "625",
+        "fours": "82"
+      },
+      {
+        "player": "DP Conway",
+        "matches": "16",
+        "innings": "15",
+        "runs": "672",
+        "fours": "77"
+      },
+      {
+        "player": "DA Warner",
+        "matches": "14",
+        "innings": "14",
+        "runs": "516",
+        "fours": "69"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "14",
+        "innings": "14",
+        "runs": "639",
+        "fours": "65"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "16",
+        "innings": "16",
+        "runs": "605",
+        "fours": "65"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "14",
+        "innings": "14",
+        "runs": "730",
+        "fours": "60"
+      },
+      {
+        "player": "Ishan Kishan",
+        "matches": "16",
+        "innings": "15",
+        "runs": "454",
+        "fours": "54"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "11",
+        "innings": "11",
+        "runs": "373",
+        "fours": "49"
+      },
+      {
+        "player": "WP Saha",
+        "matches": "17",
+        "innings": "17",
+        "runs": "371",
+        "fours": "47"
+      }
+    ],
+    "2024": [
+      {
+        "player": "TM Head",
+        "matches": "15",
+        "innings": "15",
+        "runs": "567",
+        "fours": "64"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "15",
+        "innings": "15",
+        "runs": "741",
+        "fours": "62"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "14",
+        "innings": "14",
+        "runs": "583",
+        "fours": "58"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "16",
+        "innings": "15",
+        "runs": "435",
+        "fours": "54"
+      },
+      {
+        "player": "SP Narine",
+        "matches": "15",
+        "innings": "14",
+        "runs": "488",
+        "fours": "50"
+      },
+      {
+        "player": "PD Salt",
+        "matches": "12",
+        "innings": "12",
+        "runs": "435",
+        "fours": "50"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "12",
+        "innings": "12",
+        "runs": "527",
+        "fours": "48"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "16",
+        "innings": "15",
+        "runs": "531",
+        "fours": "48"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "15",
+        "innings": "15",
+        "runs": "438",
+        "fours": "47"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "14",
+        "innings": "14",
+        "runs": "520",
+        "fours": "45"
+      }
+    ],
+    "2025": [
+      {
+        "player": "MR Marsh",
+        "matches": "4",
+        "innings": "4",
+        "runs": "184",
+        "fours": "22"
+      },
+      {
+        "player": "TM Head",
+        "matches": "4",
+        "innings": "4",
+        "runs": "140",
+        "fours": "19"
+      },
+      {
+        "player": "N Pooran",
+        "matches": "4",
+        "innings": "4",
+        "runs": "201",
+        "fours": "18"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "3",
+        "innings": "3",
+        "runs": "186",
+        "fours": "16"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "4",
+        "innings": "4",
+        "runs": "137",
+        "fours": "16"
+      },
+      {
+        "player": "PD Salt",
+        "matches": "3",
+        "innings": "3",
+        "runs": "102",
+        "fours": "15"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "4",
+        "innings": "4",
+        "runs": "171",
+        "fours": "15"
+      },
+      {
+        "player": "JC Buttler",
+        "matches": "3",
+        "innings": "3",
+        "runs": "166",
+        "fours": "14"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "4",
+        "innings": "4",
+        "runs": "121",
+        "fours": "14"
+      },
+      {
+        "player": "N Rana",
+        "matches": "4",
+        "innings": "4",
+        "runs": "112",
+        "fours": "14"
+      }
+    ]
+  },
+  "most6s": {
+    "2021": [
+      {
+        "player": "KL Rahul",
+        "matches": "13",
+        "innings": "13",
+        "runs": "626",
+        "sixes": "30"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "633",
+        "sixes": "23"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "16",
+        "runs": "635",
+        "sixes": "23"
+      },
+      {
+        "player": "GJ Maxwell",
+        "matches": "15",
+        "innings": "14",
+        "runs": "513",
+        "sixes": "21"
+      },
+      {
+        "player": "MM Ali",
+        "matches": "15",
+        "innings": "15",
+        "runs": "357",
+        "sixes": "19"
+      },
+      {
+        "player": "MA Agarwal",
+        "matches": "12",
+        "innings": "12",
+        "runs": "441",
+        "sixes": "18"
+      },
+      {
+        "player": "PP Shaw",
+        "matches": "15",
+        "innings": "15",
+        "runs": "479",
+        "sixes": "18"
+      },
+      {
+        "player": "N Rana",
+        "matches": "17",
+        "innings": "16",
+        "runs": "383",
+        "sixes": "17"
+      },
+      {
+        "player": "AT Rayudu",
+        "matches": "16",
+        "innings": "13",
+        "runs": "257",
+        "sixes": "17"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "14",
+        "innings": "14",
+        "runs": "484",
+        "sixes": "17"
+      }
+    ],
+    "2022": [
+      {
+        "player": "JC Buttler",
+        "matches": "17",
+        "innings": "17",
+        "runs": "863",
+        "sixes": "45"
+      },
+      {
+        "player": "LS Livingstone",
+        "matches": "14",
+        "innings": "14",
+        "runs": "437",
+        "sixes": "34"
+      },
+      {
+        "player": "AD Russell",
+        "matches": "14",
+        "innings": "12",
+        "runs": "335",
+        "sixes": "32"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "15",
+        "innings": "15",
+        "runs": "616",
+        "sixes": "30"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "17",
+        "innings": "17",
+        "runs": "458",
+        "sixes": "26"
+      },
+      {
+        "player": "Q de Kock",
+        "matches": "15",
+        "innings": "15",
+        "runs": "508",
+        "sixes": "23"
+      },
+      {
+        "player": "DA Miller",
+        "matches": "16",
+        "innings": "16",
+        "runs": "481",
+        "sixes": "23"
+      },
+      {
+        "player": "KD Karthik",
+        "matches": "16",
+        "innings": "16",
+        "runs": "330",
+        "sixes": "22"
+      },
+      {
+        "player": "R Powell",
+        "matches": "14",
+        "innings": "12",
+        "runs": "250",
+        "sixes": "22"
+      },
+      {
+        "player": "N Rana",
+        "matches": "14",
+        "innings": "14",
+        "runs": "361",
+        "sixes": "22"
+      }
+    ],
+    "2023": [
+      {
+        "player": "F du Plessis",
+        "matches": "14",
+        "innings": "14",
+        "runs": "730",
+        "sixes": "36"
+      },
+      {
+        "player": "S Dube",
+        "matches": "16",
+        "innings": "14",
+        "runs": "418",
+        "sixes": "35"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "890",
+        "sixes": "33"
+      },
+      {
+        "player": "GJ Maxwell",
+        "matches": "14",
+        "innings": "14",
+        "runs": "400",
+        "sixes": "31"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "15",
+        "runs": "590",
+        "sixes": "30"
+      },
+      {
+        "player": "RK Singh",
+        "matches": "14",
+        "innings": "14",
+        "runs": "474",
+        "sixes": "29"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "16",
+        "innings": "16",
+        "runs": "605",
+        "sixes": "28"
+      },
+      {
+        "player": "MP Stoinis",
+        "matches": "15",
+        "innings": "15",
+        "runs": "408",
+        "sixes": "27"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "625",
+        "sixes": "26"
+      },
+      {
+        "player": "N Pooran",
+        "matches": "15",
+        "innings": "15",
+        "runs": "358",
+        "sixes": "26"
+      }
+    ],
+    "2024": [
+      {
+        "player": "Abhishek Sharma",
+        "matches": "16",
+        "innings": "16",
+        "runs": "484",
+        "sixes": "42"
+      },
+      {
+        "player": "H Klaasen",
+        "matches": "16",
+        "innings": "15",
+        "runs": "479",
+        "sixes": "38"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "15",
+        "innings": "15",
+        "runs": "741",
+        "sixes": "38"
+      },
+      {
+        "player": "N Pooran",
+        "matches": "14",
+        "innings": "14",
+        "runs": "499",
+        "sixes": "36"
+      },
+      {
+        "player": "SP Narine",
+        "matches": "15",
+        "innings": "14",
+        "runs": "488",
+        "sixes": "33"
+      },
+      {
+        "player": "R Parag",
+        "matches": "16",
+        "innings": "14",
+        "runs": "573",
+        "sixes": "33"
+      },
+      {
+        "player": "RM Patidar",
+        "matches": "15",
+        "innings": "13",
+        "runs": "395",
+        "sixes": "33"
+      },
+      {
+        "player": "TM Head",
+        "matches": "15",
+        "innings": "15",
+        "runs": "567",
+        "sixes": "32"
+      },
+      {
+        "player": "S Dube",
+        "matches": "14",
+        "innings": "14",
+        "runs": "396",
+        "sixes": "28"
+      },
+      {
+        "player": "J Fraser-McGurk",
+        "matches": "9",
+        "innings": "9",
+        "runs": "330",
+        "sixes": "28"
+      }
+    ],
+    "2025": [
+      {
+        "player": "N Pooran",
+        "matches": "4",
+        "innings": "4",
+        "runs": "201",
+        "sixes": "16"
+      },
+      {
+        "player": "SS Iyer",
+        "matches": "3",
+        "innings": "3",
+        "runs": "159",
+        "sixes": "13"
+      },
+      {
+        "player": "AU Verma",
+        "matches": "4",
+        "innings": "4",
+        "runs": "123",
+        "sixes": "12"
+      },
+      {
+        "player": "MR Marsh",
+        "matches": "4",
+        "innings": "4",
+        "runs": "184",
+        "sixes": "10"
+      },
+      {
+        "player": "AM Rahane",
+        "matches": "4",
+        "innings": "4",
+        "runs": "123",
+        "sixes": "10"
+      },
+      {
+        "player": "JC Buttler",
+        "matches": "3",
+        "innings": "3",
+        "runs": "166",
+        "sixes": "9"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "3",
+        "innings": "3",
+        "runs": "186",
+        "sixes": "9"
+      },
+      {
+        "player": "R Parag",
+        "matches": "4",
+        "innings": "4",
+        "runs": "109",
+        "sixes": "8"
+      },
+      {
+        "player": "SE Rutherford",
+        "matches": "3",
+        "innings": "3",
+        "runs": "94",
+        "sixes": "8"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "4",
+        "innings": "4",
+        "runs": "171",
+        "sixes": "8"
+      }
+    ]
+  },
+  "centuries": {
+    "2021": [
+      {
+        "player": "JC Buttler",
+        "matches": "7",
+        "innings": "7",
+        "runs": "254",
+        "100s": "0"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "16",
+        "runs": "635",
+        "100s": "4"
+      },
+      {
+        "player": "D Padikkal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "411",
+        "100s": "1"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "14",
+        "innings": "14",
+        "runs": "484",
+        "100s": "2"
+      },
+      {
+        "player": "Abdul Samad",
+        "matches": "11",
+        "innings": "10",
+        "runs": "111",
+        "100s": "0"
+      },
+      {
+        "player": "Abhishek Sharma",
+        "matches": "8",
+        "innings": "7",
+        "runs": "98",
+        "100s": "0"
+      },
+      {
+        "player": "MA Agarwal",
+        "matches": "12",
+        "innings": "12",
+        "runs": "441",
+        "100s": "4"
+      },
+      {
+        "player": "KK Ahmed",
+        "matches": "7",
+        "innings": "1",
+        "runs": "1",
+        "100s": "0"
+      },
+      {
+        "player": "MM Ali",
+        "matches": "15",
+        "innings": "15",
+        "runs": "357",
+        "100s": "1"
+      },
+      {
+        "player": "FA Allen",
+        "matches": "4",
+        "innings": "3",
+        "runs": "6",
+        "100s": "0"
+      }
+    ],
+    "2022": [
+      {
+        "player": "JC Buttler",
+        "matches": "17",
+        "innings": "17",
+        "runs": "863",
+        "100s": "4"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "15",
+        "innings": "15",
+        "runs": "616",
+        "100s": "4"
+      },
+      {
+        "player": "Q de Kock",
+        "matches": "15",
+        "innings": "15",
+        "runs": "508",
+        "100s": "3"
+      },
+      {
+        "player": "RM Patidar",
+        "matches": "8",
+        "innings": "7",
+        "runs": "333",
+        "100s": "2"
+      },
+      {
+        "player": "SA Abbott",
+        "matches": "1",
+        "innings": "1",
+        "runs": "7",
+        "100s": "0"
+      },
+      {
+        "player": "Abdul Samad",
+        "matches": "2",
+        "innings": "2",
+        "runs": "4",
+        "100s": "0"
+      },
+      {
+        "player": "Abhishek Sharma",
+        "matches": "14",
+        "innings": "14",
+        "runs": "426",
+        "100s": "2"
+      },
+      {
+        "player": "MA Agarwal",
+        "matches": "13",
+        "innings": "12",
+        "runs": "196",
+        "100s": "1"
+      },
+      {
+        "player": "KK Ahmed",
+        "matches": "10",
+        "innings": "2",
+        "runs": "0",
+        "100s": "0"
+      },
+      {
+        "player": "Akash Deep",
+        "matches": "5",
+        "innings": "1",
+        "runs": "0",
+        "100s": "0"
+      }
+    ],
+    "2023": [
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "890",
+        "100s": "4"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "14",
+        "innings": "14",
+        "runs": "639",
+        "100s": "6"
+      },
+      {
+        "player": "HC Brook",
+        "matches": "11",
+        "innings": "11",
+        "runs": "190",
+        "100s": "0"
+      },
+      {
+        "player": "C Green",
+        "matches": "16",
+        "innings": "16",
+        "runs": "452",
+        "100s": "2"
+      },
+      {
+        "player": "VR Iyer",
+        "matches": "14",
+        "innings": "14",
+        "runs": "404",
+        "100s": "2"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "625",
+        "100s": "5"
+      },
+      {
+        "player": "H Klaasen",
+        "matches": "12",
+        "innings": "11",
+        "runs": "448",
+        "100s": "2"
+      },
+      {
+        "player": "Prabhsimran Singh",
+        "matches": "14",
+        "innings": "14",
+        "runs": "358",
+        "100s": "1"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "16",
+        "innings": "16",
+        "runs": "605",
+        "100s": "5"
+      },
+      {
+        "player": "Abdul Basith",
+        "matches": "1",
+        "innings": "1",
+        "runs": "1",
+        "100s": "0"
+      }
+    ],
+    "2024": [
+      {
+        "player": "JC Buttler",
+        "matches": "11",
+        "innings": "11",
+        "runs": "359",
+        "100s": "0"
+      },
+      {
+        "player": "JM Bairstow",
+        "matches": "11",
+        "innings": "11",
+        "runs": "298",
+        "100s": "0"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "14",
+        "innings": "14",
+        "runs": "583",
+        "100s": "4"
+      },
+      {
+        "player": "TM Head",
+        "matches": "15",
+        "innings": "15",
+        "runs": "567",
+        "100s": "4"
+      },
+      {
+        "player": "WG Jacks",
+        "matches": "8",
+        "innings": "8",
+        "runs": "230",
+        "100s": "1"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "16",
+        "innings": "15",
+        "runs": "435",
+        "100s": "1"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "15",
+        "innings": "15",
+        "runs": "741",
+        "100s": "5"
+      },
+      {
+        "player": "SP Narine",
+        "matches": "15",
+        "innings": "14",
+        "runs": "488",
+        "100s": "3"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "12",
+        "innings": "12",
+        "runs": "527",
+        "100s": "2"
+      },
+      {
+        "player": "RG Sharma",
+        "matches": "14",
+        "innings": "14",
+        "runs": "417",
+        "100s": "1"
+      }
+    ],
+    "2025": [
+      {
+        "player": "Ishan Kishan",
+        "matches": "4",
+        "innings": "4",
+        "runs": "110",
+        "100s": "0"
+      },
+      {
+        "player": "Abdul Samad",
+        "matches": "3",
+        "innings": "3",
+        "runs": "53",
+        "100s": "0"
+      },
+      {
+        "player": "Abhishek Sharma",
+        "matches": "4",
+        "innings": "4",
+        "runs": "33",
+        "100s": "0"
+      },
+      {
+        "player": "Abishek Porel",
+        "matches": "3",
+        "innings": "3",
+        "runs": "67",
+        "100s": "0"
+      },
+      {
+        "player": "Akash Deep",
+        "matches": "1",
+        "innings": "1",
+        "runs": "0",
+        "100s": "0"
+      },
+      {
+        "player": "MM Ali",
+        "matches": "2",
+        "innings": "1",
+        "runs": "5",
+        "100s": "0"
+      },
+      {
+        "player": "JC Archer",
+        "matches": "4",
+        "innings": "3",
+        "runs": "17",
+        "100s": "0"
+      },
+      {
+        "player": "Arshad Khan",
+        "matches": "2",
+        "innings": "1",
+        "runs": "1",
+        "100s": "0"
+      },
+      {
+        "player": "Arshdeep Singh",
+        "matches": "3",
+        "innings": "1",
+        "runs": "1",
+        "100s": "0"
+      },
+      {
+        "player": "P Arya",
+        "matches": "3",
+        "innings": "3",
+        "runs": "55",
+        "100s": "0"
+      }
+    ]
+  },
+  "fifties": {
+    "2021": [
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "16",
+        "runs": "635",
+        "50s": "0"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "633",
+        "50s": "2"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "13",
+        "innings": "13",
+        "runs": "626",
+        "50s": "0"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "16",
+        "innings": "16",
+        "runs": "587",
+        "50s": "0"
+      },
+      {
+        "player": "GJ Maxwell",
+        "matches": "15",
+        "innings": "14",
+        "runs": "513",
+        "50s": "1"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "14",
+        "innings": "14",
+        "runs": "484",
+        "50s": "0"
+      },
+      {
+        "player": "PP Shaw",
+        "matches": "15",
+        "innings": "15",
+        "runs": "479",
+        "50s": "0"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "478",
+        "50s": "1"
+      },
+      {
+        "player": "MA Agarwal",
+        "matches": "12",
+        "innings": "12",
+        "runs": "441",
+        "50s": "1"
+      },
+      {
+        "player": "RR Pant",
+        "matches": "16",
+        "innings": "16",
+        "runs": "419",
+        "50s": "0"
+      }
+    ],
+    "2022": [
+      {
+        "player": "JC Buttler",
+        "matches": "17",
+        "innings": "17",
+        "runs": "863",
+        "50s": "0"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "15",
+        "innings": "15",
+        "runs": "616",
+        "50s": "3"
+      },
+      {
+        "player": "Q de Kock",
+        "matches": "15",
+        "innings": "15",
+        "runs": "508",
+        "50s": "0"
+      },
+      {
+        "player": "HH Pandya",
+        "matches": "15",
+        "innings": "15",
+        "runs": "487",
+        "50s": "0"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "16",
+        "innings": "16",
+        "runs": "483",
+        "50s": "2"
+      },
+      {
+        "player": "DA Miller",
+        "matches": "16",
+        "innings": "16",
+        "runs": "481",
+        "50s": "0"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "16",
+        "innings": "16",
+        "runs": "468",
+        "50s": "2"
+      },
+      {
+        "player": "S Dhawan",
+        "matches": "14",
+        "innings": "14",
+        "runs": "460",
+        "50s": "0"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "17",
+        "innings": "17",
+        "runs": "458",
+        "50s": "0"
+      },
+      {
+        "player": "DJ Hooda",
+        "matches": "15",
+        "innings": "14",
+        "runs": "451",
+        "50s": "0"
+      }
+    ],
+    "2023": [
+      {
+        "player": "Shubman Gill",
+        "matches": "17",
+        "innings": "17",
+        "runs": "890",
+        "50s": "1"
+      },
+      {
+        "player": "F du Plessis",
+        "matches": "14",
+        "innings": "14",
+        "runs": "730",
+        "50s": "0"
+      },
+      {
+        "player": "DP Conway",
+        "matches": "16",
+        "innings": "15",
+        "runs": "672",
+        "50s": "1"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "14",
+        "innings": "14",
+        "runs": "639",
+        "50s": "1"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "14",
+        "innings": "14",
+        "runs": "625",
+        "50s": "1"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "16",
+        "innings": "16",
+        "runs": "605",
+        "50s": "1"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "16",
+        "innings": "15",
+        "runs": "590",
+        "50s": "0"
+      },
+      {
+        "player": "DA Warner",
+        "matches": "14",
+        "innings": "14",
+        "runs": "516",
+        "50s": "2"
+      },
+      {
+        "player": "RK Singh",
+        "matches": "14",
+        "innings": "14",
+        "runs": "474",
+        "50s": "0"
+      },
+      {
+        "player": "Ishan Kishan",
+        "matches": "16",
+        "innings": "15",
+        "runs": "454",
+        "50s": "0"
+      }
+    ],
+    "2024": [
+      {
+        "player": "V Kohli",
+        "matches": "15",
+        "innings": "15",
+        "runs": "741",
+        "50s": "0"
+      },
+      {
+        "player": "RD Gaikwad",
+        "matches": "14",
+        "innings": "14",
+        "runs": "583",
+        "50s": "2"
+      },
+      {
+        "player": "R Parag",
+        "matches": "16",
+        "innings": "14",
+        "runs": "573",
+        "50s": "0"
+      },
+      {
+        "player": "TM Head",
+        "matches": "15",
+        "innings": "15",
+        "runs": "567",
+        "50s": "3"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "16",
+        "innings": "15",
+        "runs": "531",
+        "50s": "1"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "12",
+        "innings": "12",
+        "runs": "527",
+        "50s": "0"
+      },
+      {
+        "player": "KL Rahul",
+        "matches": "14",
+        "innings": "14",
+        "runs": "520",
+        "50s": "0"
+      },
+      {
+        "player": "N Pooran",
+        "matches": "14",
+        "innings": "14",
+        "runs": "499",
+        "50s": "1"
+      },
+      {
+        "player": "SP Narine",
+        "matches": "15",
+        "innings": "14",
+        "runs": "488",
+        "50s": "1"
+      },
+      {
+        "player": "Abhishek Sharma",
+        "matches": "16",
+        "innings": "16",
+        "runs": "484",
+        "50s": "0"
+      }
+    ],
+    "2025": [
+      {
+        "player": "N Pooran",
+        "matches": "4",
+        "innings": "4",
+        "runs": "201",
+        "50s": "0"
+      },
+      {
+        "player": "B Sai Sudharsan",
+        "matches": "3",
+        "innings": "3",
+        "runs": "186",
+        "50s": "0"
+      },
+      {
+        "player": "MR Marsh",
+        "matches": "4",
+        "innings": "4",
+        "runs": "184",
+        "50s": "1"
+      },
+      {
+        "player": "SA Yadav",
+        "matches": "4",
+        "innings": "4",
+        "runs": "171",
+        "50s": "0"
+      },
+      {
+        "player": "JC Buttler",
+        "matches": "3",
+        "innings": "3",
+        "runs": "166",
+        "50s": "0"
+      },
+      {
+        "player": "SS Iyer",
+        "matches": "3",
+        "innings": "3",
+        "runs": "159",
+        "50s": "0"
+      },
+      {
+        "player": "TM Head",
+        "matches": "4",
+        "innings": "4",
+        "runs": "140",
+        "50s": "0"
+      },
+      {
+        "player": "SV Samson",
+        "matches": "4",
+        "innings": "4",
+        "runs": "137",
+        "50s": "0"
+      },
+      {
+        "player": "A Raghuvanshi",
+        "matches": "4",
+        "innings": "4",
+        "runs": "128",
+        "50s": "0"
+      },
+      {
+        "player": "H Klaasen",
+        "matches": "4",
+        "innings": "4",
+        "runs": "125",
+        "50s": "0"
+      }
+    ]
+  }
+}
