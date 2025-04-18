@@ -251,63 +251,63 @@
     "2025": [
       {
         "player": "N Pooran",
-        "matches": "4",
-        "innings": "4",
-        "runs": "201"
+        "matches": "7",
+        "innings": "7",
+        "runs": "357"
       },
       {
         "player": "B Sai Sudharsan",
-        "matches": "3",
-        "innings": "3",
-        "runs": "186"
+        "matches": "6",
+        "innings": "6",
+        "runs": "329"
       },
       {
         "player": "MR Marsh",
-        "matches": "4",
-        "innings": "4",
-        "runs": "184"
+        "matches": "6",
+        "innings": "6",
+        "runs": "295"
       },
       {
         "player": "SA Yadav",
-        "matches": "4",
-        "innings": "4",
-        "runs": "171"
-      },
-      {
-        "player": "JC Buttler",
-        "matches": "3",
-        "innings": "3",
-        "runs": "166"
+        "matches": "7",
+        "innings": "7",
+        "runs": "265"
       },
       {
         "player": "SS Iyer",
-        "matches": "3",
-        "innings": "3",
-        "runs": "159"
+        "matches": "7",
+        "innings": "6",
+        "runs": "250"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "7",
+        "innings": "6",
+        "runs": "248"
       },
       {
         "player": "TM Head",
-        "matches": "4",
-        "innings": "4",
-        "runs": "140"
+        "matches": "7",
+        "innings": "7",
+        "runs": "242"
       },
       {
-        "player": "SV Samson",
-        "matches": "4",
-        "innings": "4",
-        "runs": "137"
+        "player": "KL Rahul",
+        "matches": "5",
+        "innings": "5",
+        "runs": "238"
       },
       {
-        "player": "A Raghuvanshi",
-        "matches": "4",
-        "innings": "4",
-        "runs": "128"
+        "player": "YBK Jaiswal",
+        "matches": "7",
+        "innings": "7",
+        "runs": "233"
       },
       {
-        "player": "H Klaasen",
-        "matches": "4",
-        "innings": "4",
-        "runs": "125"
+        "player": "Abhishek Sharma",
+        "matches": "7",
+        "innings": "7",
+        "runs": "232"
       }
     ]
   },
@@ -602,74 +602,74 @@
     ],
     "2025": [
       {
-        "player": "MR Marsh",
-        "matches": "4",
-        "innings": "4",
-        "runs": "184",
-        "fours": "22"
-      },
-      {
         "player": "TM Head",
-        "matches": "4",
-        "innings": "4",
-        "runs": "140",
-        "fours": "19"
+        "matches": "7",
+        "innings": "7",
+        "runs": "242",
+        "fours": "33"
       },
       {
-        "player": "N Pooran",
-        "matches": "4",
-        "innings": "4",
-        "runs": "201",
-        "fours": "18"
+        "player": "Abhishek Sharma",
+        "matches": "7",
+        "innings": "7",
+        "runs": "232",
+        "fours": "31"
       },
       {
         "player": "B Sai Sudharsan",
-        "matches": "3",
-        "innings": "3",
-        "runs": "186",
-        "fours": "16"
+        "matches": "6",
+        "innings": "6",
+        "runs": "329",
+        "fours": "31"
       },
       {
-        "player": "SV Samson",
-        "matches": "4",
-        "innings": "4",
-        "runs": "137",
-        "fours": "16"
+        "player": "MR Marsh",
+        "matches": "6",
+        "innings": "6",
+        "runs": "295",
+        "fours": "30"
       },
       {
-        "player": "PD Salt",
-        "matches": "3",
-        "innings": "3",
-        "runs": "102",
-        "fours": "15"
+        "player": "N Pooran",
+        "matches": "7",
+        "innings": "7",
+        "runs": "357",
+        "fours": "28"
       },
       {
         "player": "SA Yadav",
-        "matches": "4",
-        "innings": "4",
-        "runs": "171",
-        "fours": "15"
+        "matches": "7",
+        "innings": "7",
+        "runs": "265",
+        "fours": "27"
       },
       {
-        "player": "JC Buttler",
-        "matches": "3",
-        "innings": "3",
-        "runs": "166",
-        "fours": "14"
+        "player": "PD Salt",
+        "matches": "7",
+        "innings": "6",
+        "runs": "208",
+        "fours": "25"
       },
       {
-        "player": "RD Gaikwad",
-        "matches": "4",
-        "innings": "4",
-        "runs": "121",
-        "fours": "14"
+        "player": "RD Rickelton",
+        "matches": "7",
+        "innings": "7",
+        "runs": "180",
+        "fours": "24"
       },
       {
-        "player": "N Rana",
-        "matches": "4",
-        "innings": "4",
-        "runs": "112",
-        "fours": "14"
+        "player": "SV Samson",
+        "matches": "7",
+        "innings": "7",
+        "runs": "224",
+        "fours": "23"
+      },
+      {
+        "player": "Shubman Gill",
+        "matches": "6",
+        "innings": "6",
+        "runs": "208",
+        "fours": "22"
       }
     ]
   },
@@ -965,73 +965,73 @@
     "2025": [
       {
         "player": "N Pooran",
-        "matches": "4",
-        "innings": "4",
-        "runs": "201",
-        "sixes": "16"
+        "matches": "7",
+        "innings": "7",
+        "runs": "357",
+        "sixes": "31"
       },
       {
         "player": "SS Iyer",
-        "matches": "3",
-        "innings": "3",
-        "runs": "159",
-        "sixes": "13"
-      },
-      {
-        "player": "AU Verma",
-        "matches": "4",
-        "innings": "4",
-        "runs": "123",
-        "sixes": "12"
+        "matches": "7",
+        "innings": "6",
+        "runs": "250",
+        "sixes": "20"
       },
       {
         "player": "MR Marsh",
-        "matches": "4",
-        "innings": "4",
-        "runs": "184",
-        "sixes": "10"
+        "matches": "6",
+        "innings": "6",
+        "runs": "295",
+        "sixes": "17"
+      },
+      {
+        "player": "P Arya",
+        "matches": "7",
+        "innings": "6",
+        "runs": "216",
+        "sixes": "16"
       },
       {
         "player": "AM Rahane",
-        "matches": "4",
-        "innings": "4",
-        "runs": "123",
-        "sixes": "10"
+        "matches": "7",
+        "innings": "7",
+        "runs": "221",
+        "sixes": "14"
       },
       {
-        "player": "JC Buttler",
-        "matches": "3",
-        "innings": "3",
-        "runs": "166",
-        "sixes": "9"
+        "player": "AU Verma",
+        "matches": "7",
+        "innings": "6",
+        "runs": "159",
+        "sixes": "14"
+      },
+      {
+        "player": "YBK Jaiswal",
+        "matches": "7",
+        "innings": "7",
+        "runs": "233",
+        "sixes": "13"
       },
       {
         "player": "B Sai Sudharsan",
-        "matches": "3",
-        "innings": "3",
-        "runs": "186",
-        "sixes": "9"
+        "matches": "6",
+        "innings": "6",
+        "runs": "329",
+        "sixes": "13"
+      },
+      {
+        "player": "PD Salt",
+        "matches": "7",
+        "innings": "6",
+        "runs": "208",
+        "sixes": "13"
       },
       {
         "player": "R Parag",
-        "matches": "4",
-        "innings": "4",
-        "runs": "109",
-        "sixes": "8"
-      },
-      {
-        "player": "SE Rutherford",
-        "matches": "3",
-        "innings": "3",
-        "runs": "94",
-        "sixes": "8"
-      },
-      {
-        "player": "SA Yadav",
-        "matches": "4",
-        "innings": "4",
-        "runs": "171",
-        "sixes": "8"
+        "matches": "7",
+        "innings": "7",
+        "runs": "173",
+        "sixes": "12"
       }
     ]
   },
@@ -1326,73 +1326,73 @@
     ],
     "2025": [
       {
+        "player": "Abhishek Sharma",
+        "matches": "7",
+        "innings": "7",
+        "runs": "232",
+        "100s": "0"
+      },
+      {
+        "player": "P Arya",
+        "matches": "7",
+        "innings": "6",
+        "runs": "216",
+        "100s": "0"
+      },
+      {
         "player": "Ishan Kishan",
-        "matches": "4",
-        "innings": "4",
-        "runs": "110",
+        "matches": "7",
+        "innings": "7",
+        "runs": "138",
         "100s": "0"
       },
       {
         "player": "Abdul Samad",
-        "matches": "3",
-        "innings": "3",
-        "runs": "53",
-        "100s": "0"
-      },
-      {
-        "player": "Abhishek Sharma",
-        "matches": "4",
-        "innings": "4",
-        "runs": "33",
+        "matches": "6",
+        "innings": "6",
+        "runs": "81",
         "100s": "0"
       },
       {
         "player": "Abishek Porel",
-        "matches": "3",
-        "innings": "3",
-        "runs": "67",
+        "matches": "6",
+        "innings": "6",
+        "runs": "156",
         "100s": "0"
       },
       {
         "player": "Akash Deep",
-        "matches": "1",
+        "matches": "4",
         "innings": "1",
         "runs": "0",
         "100s": "0"
       },
       {
         "player": "MM Ali",
-        "matches": "2",
+        "matches": "3",
         "innings": "1",
         "runs": "5",
         "100s": "0"
       },
       {
         "player": "JC Archer",
-        "matches": "4",
-        "innings": "3",
-        "runs": "17",
+        "matches": "7",
+        "innings": "4",
+        "runs": "21",
+        "100s": "0"
+      },
+      {
+        "player": "VG Arora",
+        "matches": "6",
+        "innings": "1",
+        "runs": "0",
         "100s": "0"
       },
       {
         "player": "Arshad Khan",
-        "matches": "2",
-        "innings": "1",
+        "matches": "4",
+        "innings": "2",
         "runs": "1",
-        "100s": "0"
-      },
-      {
-        "player": "Arshdeep Singh",
-        "matches": "3",
-        "innings": "1",
-        "runs": "1",
-        "100s": "0"
-      },
-      {
-        "player": "P Arya",
-        "matches": "3",
-        "innings": "3",
-        "runs": "55",
         "100s": "0"
       }
     ]
@@ -1689,72 +1689,72 @@
     "2025": [
       {
         "player": "N Pooran",
-        "matches": "4",
-        "innings": "4",
-        "runs": "201",
+        "matches": "7",
+        "innings": "7",
+        "runs": "357",
         "50s": "0"
       },
       {
         "player": "B Sai Sudharsan",
-        "matches": "3",
-        "innings": "3",
-        "runs": "186",
+        "matches": "6",
+        "innings": "6",
+        "runs": "329",
         "50s": "0"
       },
       {
         "player": "MR Marsh",
-        "matches": "4",
-        "innings": "4",
-        "runs": "184",
+        "matches": "6",
+        "innings": "6",
+        "runs": "295",
         "50s": "1"
       },
       {
         "player": "SA Yadav",
-        "matches": "4",
-        "innings": "4",
-        "runs": "171",
-        "50s": "0"
-      },
-      {
-        "player": "JC Buttler",
-        "matches": "3",
-        "innings": "3",
-        "runs": "166",
+        "matches": "7",
+        "innings": "7",
+        "runs": "265",
         "50s": "0"
       },
       {
         "player": "SS Iyer",
-        "matches": "3",
-        "innings": "3",
-        "runs": "159",
+        "matches": "7",
+        "innings": "6",
+        "runs": "250",
+        "50s": "1"
+      },
+      {
+        "player": "V Kohli",
+        "matches": "7",
+        "innings": "6",
+        "runs": "248",
         "50s": "0"
       },
       {
         "player": "TM Head",
-        "matches": "4",
-        "innings": "4",
-        "runs": "140",
+        "matches": "7",
+        "innings": "7",
+        "runs": "242",
         "50s": "0"
       },
       {
-        "player": "SV Samson",
-        "matches": "4",
-        "innings": "4",
-        "runs": "137",
+        "player": "KL Rahul",
+        "matches": "5",
+        "innings": "5",
+        "runs": "238",
         "50s": "0"
       },
       {
-        "player": "A Raghuvanshi",
-        "matches": "4",
-        "innings": "4",
-        "runs": "128",
+        "player": "YBK Jaiswal",
+        "matches": "7",
+        "innings": "7",
+        "runs": "233",
         "50s": "0"
       },
       {
-        "player": "H Klaasen",
-        "matches": "4",
-        "innings": "4",
-        "runs": "125",
+        "player": "Abhishek Sharma",
+        "matches": "7",
+        "innings": "7",
+        "runs": "232",
         "50s": "0"
       }
     ]
